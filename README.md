@@ -11,9 +11,8 @@ set fish_greeting ( remove fish greeting)
 git clone https://github.com/3hydraking/.tmux.git
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
-```
 ### close and reopen tmux
-
+```
 ### change tmux default shell
 ```
 nano .tmux.conf
