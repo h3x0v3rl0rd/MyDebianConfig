@@ -1,5 +1,5 @@
 # MyDebianConfig
-💻 -k4u5h41-
+💻 -n3rdh4x0r-
 
 
 ### Terminal Config
