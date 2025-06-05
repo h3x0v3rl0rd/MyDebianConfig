@@ -10,7 +10,7 @@ set fish_greeting ( remove fish greeting)
 ```
 ### Tmux Config
 ```
-git clone https://github.com/3hydraking/.tmux.git
+git clone https://github.com/h3x0v3rl0rd/.tmux.git
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
 ### close and reopen tmux
